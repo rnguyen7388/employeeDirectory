@@ -1,6 +1,6 @@
 import React from 'react';
 import Employee from "./employee";
-import Headers from "./table-headers";
+import Headers from "./name";
 
 
 export default function (props) {
