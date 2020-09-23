@@ -23,7 +23,7 @@
 ## Contribution
     Feel free to contact Ray's GitHub
 ## GitHub Deployed Link
-   
+   https://rnguyen7388.github.io/employeeDirectory/
 ## Questions
     If there are any questions, please contact my GitHub: https://github.com/rnguyen7388
 
